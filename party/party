@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# ==================================== #
+#                                      #
+# Party by Simoso68                    #
+#                                      #
+# Licensed under GNU GPL 3.0           #
+#                                      #
+# Open Source = <3                     #
+#                                      #
+# https://github.com/Simoso68/party    #
+#                                      #     
+# ==================================== #
+
+
+python3 /usr/bin/.party-app/main.py
